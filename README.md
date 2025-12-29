@@ -28,4 +28,4 @@ Feedback, suggestions, and contributions are welcome! Open an issue or pull requ
 
 Built while studying responsible AI practices and DeepLearning.AI courses. Preparing for IAPP AIGP certification.
 
-⭐ Star if you find this useful!
+⭐ Star if you find this useful! Feedback and contributions welcome via issues or pull requests.
